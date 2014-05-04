@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\bin\Debug\Reverse4GUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\bin\Debug\Reverse4GUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\bin\Debug\Reverse4GUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\obj\Debug\Reverse4GUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\obj\Debug\Reverse4GUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\obj\Debug\Reverse4GUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\obj\Debug\Reverse4GUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\obj\Debug\Reverse4GUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Reverse4GUI\Reverse4GUI\obj\Debug\Reverse4GUI.pdb
